@@ -1,0 +1,10 @@
+Name: catlog components
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - classes/ToolingAPICatalogController.cls
+    - pages/CatalogNavigator.page
+VlocityTypesToFetch:
+
+SalesforceTypesToFetch:
+    - ApexClass
+    - ApexPage
